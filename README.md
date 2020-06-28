@@ -1,2 +1,2 @@
-# Restraunut_site
+# 🍽 Restaurant Site
 Coursera course
